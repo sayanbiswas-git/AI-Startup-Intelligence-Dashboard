@@ -4,7 +4,7 @@ An executive-level market intelligence project benchmarking **35 leading global 
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 * **Tracked Entities:** 35 private and venture-backed AI companies[cite: 9, 10]
 * **Total Tracked Funding:** $84,860,500,000[cite: 9, 10]
@@ -14,7 +14,7 @@ An executive-level market intelligence project benchmarking **35 leading global 
 
 ---
 
-## 📊 Key Market Insights
+##  Key Market Insights
 
 ### 1. Sector Capitalization & Concentration
 * **Foundation Models Lead:** The **Large AI Models** category dominates capital deployment, capturing **$53.4B (63.0%)** of total tracked funding across 7 key players, averaging **$7.64B per company**[cite: 9, 10].
@@ -38,7 +38,7 @@ An executive-level market intelligence project benchmarking **35 leading global 
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+##  Tech Stack & Methodology
 
 * **Data Modeling & Cleaning:** Microsoft Excel / Python (Pandas) — Schema normalization, missing value imputation, and currency conversions.
 * **Aggregations & Logic:** Pivot Tables, dynamic lookups (`XLOOKUP`), and summary KPI aggregations.
@@ -46,13 +46,4 @@ An executive-level market intelligence project benchmarking **35 leading global 
 
 ---
 
-## 📂 Repository Structure
 
-```text
-├── data/
-│   ├── ai_startups_raw.csv          # Raw data extract (35 companies)
-│   └── ai_startups_cleaned.csv      # Processed data with normalized financials
-├── dashboard/
-│   ├── AI_Startup_Intelligence.pdf  # High-resolution dashboard export
-│   └── AI_Startup_Intelligence.xlsx # Dynamic workbook with pivot tables
-├── README.md                        # Documentation and executive summary
